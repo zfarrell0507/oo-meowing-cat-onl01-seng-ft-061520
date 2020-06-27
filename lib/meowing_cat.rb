@@ -1,5 +1,5 @@
 class Cat 
-  attr_accessor:::name
+  attr_accessor:: :name
   puts "#{:name}"
 end
 maru = Cat.new
